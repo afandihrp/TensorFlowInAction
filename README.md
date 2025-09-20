@@ -2,6 +2,8 @@
 
 Ini adalah rangkuman dari buku **"TensorFlow in Action"** yang mencakup TensorFlow versi 2.9. Buku ini berfungsi sebagai panduan komprehensif untuk membangun, melatih, dan menerapkan model *deep learning* untuk berbagai aplikasi dunia nyata.
 
+<img src="./image.png" width="300" alt="Book Cover">
+
 ---
 
 ## Ringkasan Bab
